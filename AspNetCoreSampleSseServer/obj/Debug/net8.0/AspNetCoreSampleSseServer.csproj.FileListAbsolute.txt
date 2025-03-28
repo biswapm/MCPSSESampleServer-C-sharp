@@ -54,3 +54,11 @@ D:\POC\AspNetCoreSampleSseServer\obj\Debug\net8.0\refint\AspNetCoreSampleSseServ
 D:\POC\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.pdb
 D:\POC\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.genruntimeconfig.cache
 D:\POC\AspNetCoreSampleSseServer\obj\Debug\net8.0\ref\AspNetCoreSampleSseServer.dll
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.csproj.AssemblyReference.cache
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.AssemblyInfoInputs.cache
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.AssemblyInfo.cs
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.csproj.CoreCompileInputs.cache
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.MvcApplicationPartsAssemblyInfo.cs
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.MvcApplicationPartsAssemblyInfo.cache
+D:\POC\MCPSSESampleServer-C-sharp\AspNetCoreSampleSseServer\obj\Debug\net8.0\AspNetCoreSampleSseServer.sourcelink.json

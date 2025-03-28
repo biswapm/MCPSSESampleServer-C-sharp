@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoreSampleSseServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9fcf62785fe2f8563bd9c3abb347a126dd4edb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoreSampleSseServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoreSampleSseServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
